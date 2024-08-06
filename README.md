@@ -15,7 +15,7 @@ d) Sobrescrever o conteúdo do arquivo.txt:
 ![image](https://github.com/user-attachments/assets/4f17e7e1-a0a1-4543-9757-1e363684ab5b)
 
 e) Verificar o diffing no arquivo
-git diff
+git diff 
 ![image](https://github.com/user-attachments/assets/0c7491a3-9a35-4114-bfd6-8086750371c5)
 
 f) Adicionar novamente o arquivo no staging e conferir o status
@@ -23,7 +23,7 @@ f) Adicionar novamente o arquivo no staging e conferir o status
 OBS: neste momento aproveitei e corrigi o nome do arquivo que estava errado 
 
 g) Verificar o diffing no arquivo
-git diff 
+git diff  
 ![image](https://github.com/user-attachments/assets/091a946d-4fc7-499a-ba83-bc88b9ceac77)
 
 h) Sobrescrever o conteúdo do arquivo.txt:
